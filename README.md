@@ -1,19 +1,19 @@
-# 🛡️ Cyberbullying Detection using Machine Learning
+# Cyberbullying Detection using Machine Learning
 
 This project is a web-based application that detects cyberbullying in text using machine learning techniques. The aim is to support online safety and digital well-being by providing real-time classification of harmful content.
 
 
-## 🚀 Features
+##  Features
 
-- 🧠 Machine Learning Model ('Passive Aggressive', 'XGBoost', 'Random Forest', 'Multinomial Naive Bayes')
-- 💬 Text classification: Detects whether a message is cyberbullying or not
-- 📊 Real-time inference through a clean and interactive Streamlit web app
-- 📁 Preprocessing using NLP techniques: Tokenization, Stopwords Removal, TF-IDF
-- 🛠️ Easily extendable for other text classification tasks
+-  Machine Learning Model ('Passive Aggressive', 'XGBoost', 'Random Forest', 'Multinomial Naive Bayes')
+-  Text classification: Detects whether a message is cyberbullying or not
+-  Real-time inference through a clean and interactive Streamlit web app
+-  Preprocessing using NLP techniques: Tokenization, Stopwords Removal, TF-IDF
+-  Easily extendable for other text classification tasks
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - Python 3.8+
 - Streamlit – for web UI
@@ -24,7 +24,7 @@ This project is a web-based application that detects cyberbullying in text using
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 -Cyberbullying_Prediction.ipynb
 -Streamlit_App.py
@@ -52,13 +52,13 @@ streamlit run Streamlit_App.py
 Or, if streamlit is not in your PATH:
 python -m streamlit run Streamlit_App.py
 
-📄 License
+License
 This project is licensed under the MIT License.
 
-🤝 Contributing
+Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-👨‍💻 Author
+Author
 Aerupilli Krishnamraju
 
 LinkedIn: https://www.linkedin.com/in/aerupilli-krishnamraju/
